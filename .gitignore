@@ -1,0 +1,8 @@
+/node_modules
+/npm-debug.log
+/.idea
+/obj/test
+/config/test_connections.yml
+/docker/id_rsa*
+/docker/.npmrc
+package-lock.json
